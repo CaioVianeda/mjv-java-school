@@ -1,0 +1,9 @@
+package caio.classes.objeto;
+
+public class Pessoa {
+	String nome;
+	String cpf;
+	String endereco;
+	
+	
+}

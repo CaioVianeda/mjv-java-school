@@ -1,0 +1,31 @@
+package aula20221404;
+
+public class TiposPrimitivos {
+	
+	//variaveis de classes numericas recebe valor 0 padrão
+	static int numero;
+	
+	//variaveis de classes boolean recebe valor false
+	static boolean simNao;
+	
+	//variaveis de classes boolean recebe valor " "
+		static char cchar;
+
+	public static void main(String[] args) {
+		
+		//byte: até 127 / não utilizado mais
+		byte vbyte = 1;
+		
+		//mais usados para inteiros
+		int vint =1;
+		long vlong = 12312;
+		double vdouble = 12.5;
+		
+		char vchar = 'a';
+		boolean vboolean= true;
+		
+		Wrappers
+
+	}
+
+}
