@@ -1,3 +1,4 @@
+package aula20221304;
 
 public class MinhaClasse {
 
