@@ -1,7 +1,7 @@
-package services;
+package model;
 
 public enum TypeService {
-	AGUA("Água"),
+	AGUA("ï¿½gua"),
 	LUZ("Luz");
 	
 	private String type;
